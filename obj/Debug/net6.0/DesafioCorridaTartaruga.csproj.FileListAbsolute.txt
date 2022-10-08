@@ -1,0 +1,15 @@
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.csproj.AssemblyReference.cache
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.AssemblyInfoInputs.cache
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.AssemblyInfo.cs
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.csproj.CoreCompileInputs.cache
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\bin\Debug\net6.0\DesafioCorridaTartaruga.exe
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\bin\Debug\net6.0\DesafioCorridaTartaruga.deps.json
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\bin\Debug\net6.0\DesafioCorridaTartaruga.runtimeconfig.json
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\bin\Debug\net6.0\DesafioCorridaTartaruga.dll
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\bin\Debug\net6.0\DesafioCorridaTartaruga.pdb
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.dll
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\refint\DesafioCorridaTartaruga.dll
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.pdb
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\DesafioCorridaTartaruga.genruntimeconfig.cache
+C:\DIO\C#\Desafios\DesafioCorridaTartaruga\obj\Debug\net6.0\ref\DesafioCorridaTartaruga.dll
